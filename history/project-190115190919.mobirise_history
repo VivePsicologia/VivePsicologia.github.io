@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "pag1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -34,9 +34,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 38,
     "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///C:/Users/Nani/Documents"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "pag1.html": {
