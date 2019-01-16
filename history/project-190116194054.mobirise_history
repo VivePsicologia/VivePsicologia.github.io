@@ -34,7 +34,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 38,
     "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Nani/Documents/GitHub/VivePsicologia.github.io"
   },
   "pages": {
     "pag1.html": {
@@ -560,7 +562,7 @@
     },
     "index.html": {
       "settings": {
-        "meta_descr": "Vive Psicología nace con el compromiso de mejorar la calidad de vida de personas con dolor crónico en Granada capital y su área metropolitana, a través de servicios de psicología personalizados y validados científicamente, que empoderan a nuestros clientes otorgándoles los conocimientos y las herramientas necesarias para que vivan como decidan",
+        "meta_descr": "Site Creator Description",
         "title": "Dolor crónico",
         "order": 2
       },
@@ -1118,7 +1120,7 @@
             }
           },
           "_name": "content7",
-          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Encarnación Gómez Frías</b>\n<br>Graduada en Psicología\n<br>Máster Psicología General Sanitaria\n<br>Técnico de Integración Social\n<br>Colaboradora con el departamento de Personalidad, Evaluación y Tratamiento Psicológico de la Facultad de Psicología de la Universidad de Granada.&nbsp;<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/la-buena-nani-436x314.png\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Encarnación Gómez Frías</b>\n<br>Graduada en Psicología\n<br>Máster Psicología General Sanitaria\n<br>Técnico de Integración Social\n<br>Colaboradora con el departamento de Personalidad, Evaluación y Tratamiento Psicológico de la Facultad de Psicología de la Universidad de Granada.&nbsp;<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@assets/images/la%20buena%20nani-436x314.png\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "r9A3WIMFrr",
           "_anchor": "content7-e",
           "_protectedParams": [],
